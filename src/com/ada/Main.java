@@ -29,5 +29,9 @@ public class Main {
         return number1 / number2;
     }
 
+    private static double potencia(double base, double exponente) {
+        return base * exponente;
+    }
+
 
 }
