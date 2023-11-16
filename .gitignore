@@ -1,3 +1,4 @@
 #Archivos configuracion Intellij Idea
 .idea/
 *.iml
+out/
