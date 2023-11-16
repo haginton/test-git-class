@@ -31,7 +31,7 @@ public class Main {
     }
 
     private static double potencia(double base, double exponente) {
-        return base * exponente;
+        return 0 + Math.pow(base, exponente);
     }
 
 
